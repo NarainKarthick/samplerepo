@@ -1,0 +1,27 @@
+
+h1{
+    text-align: center;
+    background-color: green;
+}
+h2{
+    text-align: center;
+    background-color: green;
+}
+.nut1{
+    padding: 30px;
+    background-color: rgb(173, 233, 52);
+    width: 500px;
+    height: 500px;
+    display: inline-block;
+
+}
+.alm{
+    width: 200px;
+    height: 230px;
+    display: block;
+       
+}
+.bo{
+    margin: auto;
+    background-color: yellowgreen;
+}
